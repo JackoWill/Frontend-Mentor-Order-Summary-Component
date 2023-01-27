@@ -13,10 +13,9 @@
     />
     <link rel="stylesheet" href="css/reset.css" />
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/queries.css" />
 
     <title>Frontend Mentor | Order summary card</title>
-
-    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   </head>
 
   <body>
@@ -32,26 +31,31 @@
             You can now listen to millions of songs, audiobooks, and podcasts on
             any device anywhere you like!
           </p>
-          <div class="flex__group--1">
-            <img src="assets/images/icon-music.svg" alt="" />
-            <a href="#">Change</a>
-            <div class="flex__group--2">
-              <p class="order-summary__plan">Annual Plan</p>
-              <p class="order-summary__cost">$59.99/year Change</p>
+
+          <div class="flex__container">
+            <div class="flex__group">
+              <img src="assets/images/icon-music.svg" alt="" />
+              <div class="flex__group-col">
+                <p class="order-summary__plan">Annual Plan</p>
+                <p class="order-summary__cost">$59.99/year</p>
+              </div>
             </div>
+            <a href="#" class="order-summary__change-plan">Change</a>
           </div>
 
           <button class="btn">Proceed to Payment</button>
-          <button class="order--summary__cancel">Cancel Order</button>
+          <a href="#" class="order--summary__cancel">Cancel Order</a>
         </div>
       </article>
     </main>
-
-    <!-- <div class="attribution">
-      Challenge by
-      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-        >Frontend Mentor</a
-      >. Coded by <a href="#">Your Name Here</a>.
-    </div> -->
+    <footer>
+      <div class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by
+        <a href="https://www.frontendmentor.io/profile/JackoWill">JackoWill</a>.
+      </div>
+    </footer>
   </body>
 </html>
