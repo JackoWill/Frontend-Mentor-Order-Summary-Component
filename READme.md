@@ -1,17 +1,22 @@
+<div align="center">
+<img src="https://www.frontendmentor.io/static/images/logo-mobile.svg"  
+alt="frontendmentor" width="80">
+
 # Frontend Mentor - Order summary card solution
+
+![](./assets/design/desktop-preview.jpg)
+
+</div>
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
-
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-
   - [Built with](#built-with)
-
 - [Author](#author)
 
 ## Overview
@@ -23,11 +28,6 @@ Order Summary Component
 Users should be able to:
 
 - See hover states for interactive elements
-
-### Screenshot
-
-![](./assets/images/Order-summary-mobile.png)
-![](./assets/images/Order-summary-desktop.png)
 
 ### Links
 
