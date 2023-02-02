@@ -2,7 +2,7 @@
 <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg"  
 alt="frontendmentor" width="80">
 
-# Frontend Mentor - Order summary card solution
+# Order summary card solution
 
 ![](./assets/design/desktop-preview.jpg)
 
@@ -14,14 +14,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
-
-## Overview
-
-Order Summary Component
 
 ### The challenge
 
