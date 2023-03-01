@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.frontendmentor.io/static/images/logo-mobile.svg"  
+<img src="https://www.frontendmentor.io/static/images/logo-mobile.svg"
 alt="frontendmentor" width="80">
 
 # Order summary card solution
@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-order-summary-component-diCtLaa-Z-](https://your-solution-url.com)
-- Live Site URL: [https://splendid-entremet-e43257.netlify.app/](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-order-summary-component-diCtLaa-Z-]
+- Live Site URL: [https://order-summary-component-jackowill.netlify.app/]
 
 ### Built with
 
